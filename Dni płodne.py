@@ -32,3 +32,4 @@ if dzien or miesiac or rok or dlugosc == 0:
         print ("Najlepszym dniem na zajście w ciąże jest dzień :", najlepszy)
         print ()
     except NameError: print()
+        
